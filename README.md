@@ -159,3 +159,50 @@ The content formatted (options to qwest run: --format json/html/...)
 The headers of the response
 # Qwest
 # Qwest
+[?1049h[?1h=[H[J[?2004h[?2026$p[?2027$p[?2031$p[?2048$p[?u[c[34h[?25h[?25l[m[H                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                [?1004h[34h[?25h[?25l[2 q[2 q[?1002h[?1006h[m[H                                                                                [m
+                                                                                [m
+                                                                                [m
+                                                                                [m
+                                                                                [m
+                                                                                [m
+                                                                                [m
+                                                                                [m
+                                                                                [m
+                                                                                [m
+                                                                                [m
+                                                                                [m
+                                                                                [m
+                                                                                [m
+                                                                                [m
+                                                                                [m
+                                                                                [m
+                                                                                [m
+                                                                                [m
+                                                                                [m
+                                                                                [m
+                                                                                [m
+                                                                                [m
+                                                                                [H
